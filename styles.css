@@ -1,0 +1,68 @@
+body {
+    background-color:darkgray
+}
+
+h1 {
+    color:rgb(0, 0, 0);
+}
+
+
+div {
+    background-color: rgb(211, 206, 199);
+    border-style:solid;
+    border-radius: 25px;
+    border-color:rgb(0, 0, 0)
+}
+
+#large-paragraph {
+    font-size: 28px;
+}
+
+img {
+    float: middle;
+}
+
+.hov {
+    height: 340px;
+    width: 330px;
+    background-color: darkgrey;
+    float:left;
+}
+
+.hov:hover {
+    background-color:antiquewhite
+}
+
+.experienec li:nth-child() {
+    background-color:rgb(0, 0, 0);
+}
+
+.box-one {
+    border-style: solid;
+    background-color: rgb(161, 171, 171);
+    border-color: rgb(0, 0, 0);
+    border-radius: 200px;
+}
+
+#medium-paragraph {
+    font-size: 22px;
+}
+
+table {
+    border: solid;
+    width: 100%;
+}
+
+th,td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid rgb(0, 0, 0); 
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(210, 218, 225);
+}
+
+tr:hover {
+    background-color: gray;
+}
